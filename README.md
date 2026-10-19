@@ -2,6 +2,12 @@
 
 Projeto de estudos para aprender Java
 
+- Crie um projeto Java com o IntelliJ
+- Aprenda sobre o processo de compilação e execução de uma aplicação Java
+- Conheça os principais tipos de dados
+- Utilize o Scanner para leitura de dados
+- Controle o fluxo da aplicação com o uso de condicionais e loops
+
 # Compilando e Executando
 
 Compilando:
@@ -25,10 +31,13 @@ javac -d out src/Main.java src/Calculadora.java
 
 ```
 java-project/
+├── notes/
 ├── out/
 ├── src/
 └── ...
 ```
+
+notes/ → notas de aula e materias teóricos
 
 out/ → executáveis
 
