@@ -1,4 +1,4 @@
-public class Temperatura {
+public class CelsiusParaFahrenheit {
 
     public static void main(String[] args) {
         double temperaturaEmCelsius = 30.4;

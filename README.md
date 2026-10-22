@@ -2,7 +2,7 @@
 
 Projeto de estudos para aprender Java
 
-- Crie um projeto Java com o IntelliJ
+- Crie um projeto básico em Java
 - Aprenda sobre o processo de compilação e execução de uma aplicação Java
 - Conheça os principais tipos de dados
 - Utilize o Scanner para leitura de dados
