@@ -7,6 +7,11 @@ Projeto de estudos para aprender Java
 - Conheça os principais tipos de dados
 - Utilize o Scanner para leitura de dados
 - Controle o fluxo da aplicação com o uso de condicionais e loops
+- Aprenda os conceitos da Orientação a Objetos utilizando o Java
+- Modele abstrações da aplicação via classes, atributos e métodos
+- Utilize herança como mecanismo de reaproveitamento de código
+- Aplique polimorfismo para tornar o código do projeto flexível
+- Entenda como utilizar interfaces para padronização de métodos
 
 # Compilando e Executando
 
@@ -31,11 +36,14 @@ javac -d out src/Main.java src/Calculadora.java
 
 ```
 java-project/
+├── java-basics/
 ├── notes/
 ├── out/
 ├── src/
 └── ...
 ```
+
+java-basics/ → exemplos de uso de java (tipos, loops, condicionais, etc)
 
 notes/ → notas de aula e materias teóricos
 
